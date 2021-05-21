@@ -61,7 +61,7 @@
 }
 
 .code {
-    color: #bd93f9;
+  color: #bd93f9;
   background: #6272a4;
   border-radius: 5px;
   padding: 0.75rem;
@@ -110,7 +110,6 @@
 }
 
 .logo {
-  height: 1em;
   margin-left: 0.5rem;
 }
 
