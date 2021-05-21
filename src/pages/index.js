@@ -55,7 +55,9 @@ export default function Home() {
                     target="_blank"
                     rel="noopener noreferrer">
                     Powered by{' '}
-                    <span className={styles.logo}>HML-Intelligence</span>
+                    <span className={styles.logo}>
+                        <b>{'<🚀/>'}</b> HML code-intelligence
+                    </span>
                 </a>
             </footer>
         </div>
